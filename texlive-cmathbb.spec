@@ -1,6 +1,6 @@
 Name:		texlive-cmathbb
 Version:	56414
-Release:	1
+Release:	2
 Summary:	Computer modern mathematical blackboard bold font
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cmathbb
