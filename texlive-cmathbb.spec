@@ -3,7 +3,7 @@ Version:	56414
 Release:	2
 Summary:	Computer modern mathematical blackboard bold font
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cmathbb
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/cmathbb
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cmathbb.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cmathbb.doc.r%{version}.tar.xz
